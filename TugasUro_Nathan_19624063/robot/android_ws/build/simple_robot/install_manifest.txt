@@ -1,0 +1,17 @@
+/home/nathan/android_ws/install/simple_robot/share/simple_robot/launch/launch_camera_follow.launch.py
+/home/nathan/android_ws/install/simple_robot/share/simple_robot/urdf/simple_robot.urdf
+/home/nathan/android_ws/install/simple_robot/share/ament_index/resource_index/package_run_dependencies/simple_robot
+/home/nathan/android_ws/install/simple_robot/share/ament_index/resource_index/parent_prefix_path/simple_robot
+/home/nathan/android_ws/install/simple_robot/share/simple_robot/environment/ament_prefix_path.sh
+/home/nathan/android_ws/install/simple_robot/share/simple_robot/environment/ament_prefix_path.dsv
+/home/nathan/android_ws/install/simple_robot/share/simple_robot/environment/path.sh
+/home/nathan/android_ws/install/simple_robot/share/simple_robot/environment/path.dsv
+/home/nathan/android_ws/install/simple_robot/share/simple_robot/local_setup.bash
+/home/nathan/android_ws/install/simple_robot/share/simple_robot/local_setup.sh
+/home/nathan/android_ws/install/simple_robot/share/simple_robot/local_setup.zsh
+/home/nathan/android_ws/install/simple_robot/share/simple_robot/local_setup.dsv
+/home/nathan/android_ws/install/simple_robot/share/simple_robot/package.dsv
+/home/nathan/android_ws/install/simple_robot/share/ament_index/resource_index/packages/simple_robot
+/home/nathan/android_ws/install/simple_robot/share/simple_robot/cmake/simple_robotConfig.cmake
+/home/nathan/android_ws/install/simple_robot/share/simple_robot/cmake/simple_robotConfig-version.cmake
+/home/nathan/android_ws/install/simple_robot/share/simple_robot/package.xml

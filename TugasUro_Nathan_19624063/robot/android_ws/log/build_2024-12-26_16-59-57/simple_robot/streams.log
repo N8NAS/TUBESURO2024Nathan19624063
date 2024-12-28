@@ -1,0 +1,48 @@
+[0.006s] Invoking command in '/home/nathan/android_ws/build/simple_robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/nathan/android_ws/src/simple_robot -DCMAKE_INSTALL_PREFIX=/home/nathan/android_ws/install/simple_robot
+[0.051s] -- The C compiler identification is GNU 11.4.0
+[0.110s] -- The CXX compiler identification is GNU 11.4.0
+[0.115s] -- Detecting C compiler ABI info
+[0.186s] -- Detecting C compiler ABI info - done
+[0.194s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.194s] -- Detecting C compile features
+[0.195s] -- Detecting C compile features - done
+[0.197s] -- Detecting CXX compiler ABI info
+[0.275s] -- Detecting CXX compiler ABI info - done
+[0.283s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.284s] -- Detecting CXX compile features
+[0.284s] -- Detecting CXX compile features - done
+[0.286s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.414s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.482s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.528s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.528s] -- Added test 'lint_cmake' to check CMake code style
+[0.528s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.529s] -- Added test 'xmllint' to check XML markup files
+[0.530s] -- Configuring done
+[0.531s] -- Generating done
+[0.532s] -- Build files have been written to: /home/nathan/android_ws/build/simple_robot
+[0.535s] Invoked command in '/home/nathan/android_ws/build/simple_robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/nathan/android_ws/src/simple_robot -DCMAKE_INSTALL_PREFIX=/home/nathan/android_ws/install/simple_robot
+[0.536s] Invoking command in '/home/nathan/android_ws/build/simple_robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/nathan/android_ws/build/simple_robot -- -j16 -l16
+[0.572s] Invoked command in '/home/nathan/android_ws/build/simple_robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/nathan/android_ws/build/simple_robot -- -j16 -l16
+[0.582s] Invoking command in '/home/nathan/android_ws/build/simple_robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/nathan/android_ws/build/simple_robot
+[0.591s] -- Install configuration: ""
+[0.591s] -- Installing: /home/nathan/android_ws/install/simple_robot/share/simple_robot/launch
+[0.591s] -- Installing: /home/nathan/android_ws/install/simple_robot/share/simple_robot/launch/launch_camera_follow.launch.py
+[0.592s] -- Installing: /home/nathan/android_ws/install/simple_robot/share/simple_robot/urdf
+[0.592s] -- Installing: /home/nathan/android_ws/install/simple_robot/share/simple_robot/urdf/simple_robot.urdf
+[0.592s] -- Installing: /home/nathan/android_ws/install/simple_robot/share/ament_index/resource_index/package_run_dependencies/simple_robot
+[0.592s] -- Installing: /home/nathan/android_ws/install/simple_robot/share/ament_index/resource_index/parent_prefix_path/simple_robot
+[0.592s] -- Installing: /home/nathan/android_ws/install/simple_robot/share/simple_robot/environment/ament_prefix_path.sh
+[0.592s] -- Installing: /home/nathan/android_ws/install/simple_robot/share/simple_robot/environment/ament_prefix_path.dsv
+[0.592s] -- Installing: /home/nathan/android_ws/install/simple_robot/share/simple_robot/environment/path.sh
+[0.592s] -- Installing: /home/nathan/android_ws/install/simple_robot/share/simple_robot/environment/path.dsv
+[0.592s] -- Installing: /home/nathan/android_ws/install/simple_robot/share/simple_robot/local_setup.bash
+[0.592s] -- Installing: /home/nathan/android_ws/install/simple_robot/share/simple_robot/local_setup.sh
+[0.592s] -- Installing: /home/nathan/android_ws/install/simple_robot/share/simple_robot/local_setup.zsh
+[0.593s] -- Installing: /home/nathan/android_ws/install/simple_robot/share/simple_robot/local_setup.dsv
+[0.593s] -- Installing: /home/nathan/android_ws/install/simple_robot/share/simple_robot/package.dsv
+[0.593s] -- Installing: /home/nathan/android_ws/install/simple_robot/share/ament_index/resource_index/packages/simple_robot
+[0.593s] -- Installing: /home/nathan/android_ws/install/simple_robot/share/simple_robot/cmake/simple_robotConfig.cmake
+[0.593s] -- Installing: /home/nathan/android_ws/install/simple_robot/share/simple_robot/cmake/simple_robotConfig-version.cmake
+[0.593s] -- Installing: /home/nathan/android_ws/install/simple_robot/share/simple_robot/package.xml
+[0.595s] Invoked command in '/home/nathan/android_ws/build/simple_robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/nathan/android_ws/build/simple_robot

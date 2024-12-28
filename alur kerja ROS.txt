@@ -1,0 +1,6 @@
+ROS terdiri dari berbagai elemen yaitu :
+- Nodes: bertugas untuk melakukan tugas tertentu
+- Topics : Sebagai perantara komunikasi antara node yang berbasis Publisher-Subscriber
+- Services : untuk menjalin komunikasi langsung antara node
+
+Saat program berjalan, ROS Master akan mengelola registrasi dan komunikasi antar-node. Node-node yang terdapat pada robot seperti roda dan sensor akan saling berkomukasi melalui topic sehingga roda-roda yang terdapat dalam robot tersebut akan bergerak sehingga akan mendekati objek yang terdeteksi oleh sensor.

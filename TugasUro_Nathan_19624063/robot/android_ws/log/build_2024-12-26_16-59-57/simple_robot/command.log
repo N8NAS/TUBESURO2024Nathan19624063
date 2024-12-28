@@ -1,0 +1,6 @@
+Invoking command in '/home/nathan/android_ws/build/simple_robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/nathan/android_ws/src/simple_robot -DCMAKE_INSTALL_PREFIX=/home/nathan/android_ws/install/simple_robot
+Invoked command in '/home/nathan/android_ws/build/simple_robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/nathan/android_ws/src/simple_robot -DCMAKE_INSTALL_PREFIX=/home/nathan/android_ws/install/simple_robot
+Invoking command in '/home/nathan/android_ws/build/simple_robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/nathan/android_ws/build/simple_robot -- -j16 -l16
+Invoked command in '/home/nathan/android_ws/build/simple_robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/nathan/android_ws/build/simple_robot -- -j16 -l16
+Invoking command in '/home/nathan/android_ws/build/simple_robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/nathan/android_ws/build/simple_robot
+Invoked command in '/home/nathan/android_ws/build/simple_robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/nathan/android_ws/build/simple_robot
