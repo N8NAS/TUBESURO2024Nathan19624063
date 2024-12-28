@@ -1,19 +1,19 @@
 <?xml version="1.0"?>
 <robot name="simple_robot">
 
-  <!-- Link utama robot -->
+
   <link name="base_link"/>
 
-  <!-- Roda robot -->
+
   <link name="front_left_wheel"/>
   <link name="front_right_wheel"/>
   <link name="back_left_wheel"/>
   <link name="back_right_wheel"/>
 
-  <!-- Sensor Kamera -->
+ 
   <link name="camera_link"/>
 
-  <!-- Joint untuk menghubungkan roda ke robot -->
+
   <joint name="front_left_wheel_joint" type="revolute">
     <parent link="base_link"/>
     <child link="front_left_wheel"/>
@@ -46,7 +46,7 @@
     <limit effort="50.0" velocity="1.0" lower="0" upper="2.0"/>
   </joint>
 
-  <!-- Kamera -->
+
   <joint name="camera_joint" type="fixed">
     <parent link="base_link"/>
     <child link="camera_link"/>
